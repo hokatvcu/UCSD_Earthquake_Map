@@ -24,4 +24,6 @@ module 6: The comparableTo interface is used on the EarthquakeMarker which compa
 
 Final: Made a custom GUI that shows the Top 5 Earthquakes sorted by Magnitude.  
 
+![Alt text](https://github.com/hokatvcu/UCSD_Earthquake_Map/blob/master/Final_Earthquake_Project.png "Optional title")
+
 
