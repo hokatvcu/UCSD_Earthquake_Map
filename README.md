@@ -3,6 +3,8 @@
 This project was designed by the University of California, San Diego Cousera Intermediate Programming Team for
  the Object-Oriented Programming in Java course. It was the first of a 5 course specialization (Java Programming: Object-Oriented Design of Data Structures Specialization).
 
+Link for course: https://www.coursera.org/learn/object-oriented-java/home/welcome
+
 The Program was built from:
 </br>
 Unfolding Maps
