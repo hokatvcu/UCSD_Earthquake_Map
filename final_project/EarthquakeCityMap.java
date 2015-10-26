@@ -150,7 +150,7 @@ public class EarthquakeCityMap extends PApplet {
 		addKey();
 		addTop5MagKey();
 		if(top5Clicked){
-			testBox();
+			top5MagBox();
 			top5mag();
 		}
 	}
@@ -384,9 +384,9 @@ public class EarthquakeCityMap extends PApplet {
 		text("Magnitude", xbase+55, ybase+245);
 	
 	}
-	private void testBox(){
+	private void top5MagBox(){
 		fill(255, 255, 255);
-		rect(xbase-15, ybase+260, 260, 105);
+		rect(xbase-15, ybase+260, 400, 105);
 		
 	}
 	
